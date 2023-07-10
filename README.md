@@ -86,7 +86,7 @@ In my spare time, I enjoy doing photography and reading novels.</b>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/anushkabahuguna">
-            ><img src="https://github-readme-stats.vercel.app/api?username=anushkabahuguna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></a>
+            <img src="https://github-readme-stats.vercel.app/api?username=anushkabahuguna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></a>
         </div>
         </td>
       </tr>
