@@ -60,40 +60,30 @@ In my spare time, I enjoy doing photography and reading novels.</b>
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
     
 <br>
+<div >
 
 - **Version Control**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+</div>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-        <a href="https://github.com/anushkabahuguna/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabahuguna&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="anushkabahuguna"/
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/anushkabahuguna">
-            <img src="https://github-readme-stats.vercel.app/api?username=anushkabahuguna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-  
+
+<div style="display:flex;justifyContent:center;gap:0.6rem">
+
 <div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkabahuguna&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="anushkabahuguna"/>
+</div>
+      
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=anushkabahuguna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+        
+</div>
 </div>
 
 ---
