@@ -4,7 +4,10 @@
 
 ### About Me
 
-
+<b>Hello, my name is Anushka Bahuguna. I live in Garhwal, Uttarakhand. I am currently pursuing MCA at NIT Warangal, Telangana.
+I am passionate about web and graphic designing.<br/>
+In my spare time, I enjoy doing photography and reading novels.</b>
+<br/>
 <div align="center">
 <a href="https://anushkabahuguna.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" />
